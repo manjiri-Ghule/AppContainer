@@ -1,7 +1,6 @@
+Containerized Web Application Deployment with Docker and Docker Compose
 # Docker_and_Docker_compose_project / AppContainer System
 using docker and docker compose created project with 3 container (MySQL, WordPress, PhpMyAdmin)
-
-Containerized Web Application Deployment with Docker and Docker Compose
 
 Project Overview
 
